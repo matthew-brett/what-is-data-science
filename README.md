@@ -1,6 +1,6 @@
-# A talk template
+# "What is data science?" talk
 
-Rename the `the_talk.md` file.
+To build:
 
 ```
 git submodule update --init
@@ -10,7 +10,7 @@ git submodule update --init
 make
 ```
 
-Eventually consider adding the built PDF files:
+At some point, add the built PDF files:
 
 ```
 git add -f *.pdf
